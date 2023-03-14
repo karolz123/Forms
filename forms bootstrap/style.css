@@ -1,0 +1,11 @@
+.fondo {
+    background-image: url(Imagen/img_form.jpg) ;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 760px;
+}
+
+a{
+    color: white;
+}
+
